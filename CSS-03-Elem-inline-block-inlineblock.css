@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+}
+
+.quadro {
+    width: 300px;
+    height: 100px;
+    background-color: #f3d7d7;
+    color: #184290;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: underline;
+    margin-bottom: 10px;
+
+    display: inline-block;
+}
+

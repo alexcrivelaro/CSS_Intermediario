@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+}
+
+.quadro {
+    width: 400px;
+    height: 1000px;
+    background-color: #f3d7d7;
+    color: #184290;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: underline;
+
+    margin: auto;
+    margin-top: 20px;
+    padding-top: 20px;
+}
+
+.flutua {
+    height: 100px;
+    background-color: #47ee92;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+}
